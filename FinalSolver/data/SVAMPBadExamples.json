@@ -1,0 +1,270 @@
+[
+   {
+        "ID": "chal-356",
+        "Body": "Adam could fit 10 action figures on each shelf in his room. His room has could hold 8 action figures.",
+        "Question": "How many total shelves did his room have?",
+        "Equation": "( 8.0 * 10.0 )",
+        "Answer": 80.0,
+        "Type": "Multiplication"
+    },
+    {
+        "ID": "chal-565",
+        "Body": "There are 16 different books and 14 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 13 of the movies",
+        "Question": "How many more books than movies are there in the ' crazy silly school ' series?",
+        "Equation": "( 16.0 - 14.0 )",
+        "Answer": 2.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-484",
+        "Body": "Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons.",
+        "Question": "How many more crayons did he lose than those he gave to his friends?",
+        "Equation": "( 412.0 - 90.0 )",
+        "Answer": 322.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-463",
+        "Body": "There were 15 roses in the vase. Jessica threw away 33 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 17 roses in the vase.",
+        "Question": "How many more roses did she cut than those she threw away?",
+        "Equation": "( 17.0 - 15.0 )",
+        "Answer": 2.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-417",
+        "Body": "Paul had 71 books. After selling some in a garage sale he bought 38 new ones. If he has 116 books now",
+        "Question": "How many more books did he buy than he sold?",
+        "Equation": "( 116.0 - 71.0 )",
+        "Answer": 45.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-398",
+        "Body": "At the arcade Dave had won 13 tickets. If he used 8 to buy some toys and 18 more to buy some clothes",
+        "Question": "How many more tickets did Dave use to buy clothes than he did to buy toys?",
+        "Equation": "( 18.0 - 8.0 )",
+        "Answer": 10.0,
+        "Type": "Subtraction"
+    },
+    {
+        "problem": "Edward spent $ 17. Then he received $ 10 from his friend. Now he has $ 7. How much did Edward have before he spent his money?",
+        "conditions": [
+            "Edward spent $ 17.",
+            "Then he received $ 10 from his friend.",
+            "Now he has $ 7."
+        ],
+        "question": "How much did Edward have before he spent his money?",
+        "equation": "( ( 17.0 - 10.0 ) + 7.0 )",
+        "gold_answer": 14.0,
+        "verify_condition_index": 0
+    },
+    {
+        "ID": "chal-364",
+        "Body": "Paige raised 16 goldfish and 71 catfish in the pond but stray cats loved eating them. Now she has 2 left.",
+        "Question": "How many goldfish disappeared?",
+        "Equation": "( 16.0 - 2.0 )",
+        "Answer": 14.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-342",
+        "Body": "Dan has $ 3. For a total of $ 4 he bought 2 candy bar each one costing the same amount of money.",
+        "Question": "How much did each candy bar cost?",
+        "Equation": "( 4.0 / 2.0 )",
+        "Answer": 2.0,
+        "Type": "Common-Division"
+    },
+    {
+        "ID": "chal-351",
+        "Body": "After a typhoon, 13 trees in Haley's backyard died. If she had grown 3 trees initially",
+        "Question": "How many more trees died in the typhoon than those that survived?",
+        "Equation": "( 13.0 - ( 3.0 - 13.0 ) )",
+        "Answer": 23.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-333",
+        "Body": "Frank was reading through his favorite book. The book had 2 chapters each with 405 pages. It took frank 664 days to finish the book.",
+        "Question": "How many chapters did he read per day?",
+        "Equation": "( 664.0 / 2.0 )",
+        "Answer": 332.0,
+        "Type": "Common-Division"
+    },
+    {
+        "ID": "chal-290",
+        "Body": "After eating a hearty meal they went to see the Buckingham palace. There were 71 paintings in the Buckingham palace. There, Rachel learned that 557 visitors came to the Buckingham palace that day. If there were 188 visitors the previous day",
+        "Question": "How many visited the Buckingham palace within 57 days?",
+        "Equation": "( 557.0 + 188.0 )",
+        "Answer": 745.0,
+        "Type": "Addition"
+    },
+    {
+        "ID": "chal-270",
+        "Body": "Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left.",
+        "Question": "How many more Ace cards than baseball cards does Nell have?",
+        "Equation": "( 495.0 - 404.0 )",
+        "Answer": 91.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-214",
+        "Body": "There were 12 roses and 2 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 10 roses and 21 orchids in the vase.",
+        "Question": "How many orchids did she cut?",
+        "Equation": "( 21.0 - 2.0 )",
+        "Answer": 19.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-161",
+        "Body": "Emily is making bead necklaces for her friends. She had 2 beads and she was able to make 32 necklaces.",
+        "Question": "How many beads did each necklace need?",
+        "Equation": "( 32.0 / 2.0 )",
+        "Answer": 16.0,
+        "Type": "Common-Division"
+    },
+    {
+        "ID": "chal-136",
+        "Body": "A farmer had 175 tomatoes and 77 potatoes in his garden. If he picked 172 potatoes",
+        "Question": "How many tomatoes and potatoes does he have left?",
+        "Equation": "( ( 175.0 + 77.0 ) - 172.0 )",
+        "Answer": 80.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-133",
+        "Body": "22 children were riding on the bus. At the bus stop 40 children got on the bus while some got off the bus. Then there were 2 children altogether on the bus.",
+        "Question": "How many children got off the bus at the bus stop?",
+        "Equation": "( ( 22.0 + 40.0 ) - 2.0 )",
+        "Answer": 60.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-56",
+        "Body": "A farmer had 90 tomatoes in his garden. If he picked 154 of them yesterday and 50 today.",
+        "Question": "How many tomatoes did he pick in all?",
+        "Equation": "( 154.0 + 50.0 )",
+        "Answer": 204.0,
+        "Type": "Addition"
+    },
+    {
+        "ID": "chal-50",
+        "Body": "Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.",
+        "Question": "How many more baseball cards than Ace cards does Nell have?",
+        "Equation": "( 415.0 - 149.0 )",
+        "Answer": 266.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-35",
+        "Body": "Jack received 6 emails in the morning, 3 emails in the afternoon and some more in the evening. If he received a total of 10 emails in the day",
+        "Question": "How many emails did Jack receive in the afternoon?",
+        "Equation": "( 10.0 - ( 6.0 + 3.0 ) )",
+        "Answer": 1.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-998",
+        "Body": "Paige was helping her mom plant flowers and together they planted 55 seeds. They put 15 seeds in each flower bed and only 60 seeds grew into flowers in each flower bed.",
+        "Question": "How many flowers did they grow?",
+        "Equation": "( 60.0 * ( 55.0 / 15.0 ) )",
+        "Answer": 220.0,
+        "Type": "Multiplication"
+    },
+    {
+        "ID": "chal-606",
+        "Body": "There were 61 parents in the program and 177 pupils too. The program could seat 44 people",
+        "Question": "How many people were present in the program?",
+        "Equation": "( 61.0 + 177.0 )",
+        "Answer": 238.0,
+        "Type": "Addition"
+    },
+    {
+        "ID": "chal-566",
+        "Body": "You had 14 bags with equal number of cookies. If you had 28 cookies and 86 candies in total",
+        "Question": "How many bags of cookies do you have?",
+        "Equation": "( 28.0 / 14.0 )",
+        "Answer": 2.0,
+        "Type": "Common-Division"
+    },
+    {
+        "ID": "chal-926",
+        "Body": "Nell collects cards. She had 438 baseball cards and 18 Ace cards. She gave some of her cards to Jeff and now has 55 Ace cards and 178 baseball cards left.",
+        "Question": "How many more baseball cards than Ace cards does Nell have?",
+        "Equation": "( 178.0 - 55.0 )",
+        "Answer": 123.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-897",
+        "Body": "Robin has 28 packages of gum and 14 packages of candy. There are 6 pieces in each package.",
+        "Question": "How many pieces does Robin have?",
+        "Equation": "( ( 28.0 + 14.0 ) / 6.0 )",
+        "Answer": 7.0,
+        "Type": "Common-Division"
+    },
+    {
+        "ID": "chal-845",
+        "Body": "There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase.",
+        "Question": "How many more roses did she throw away than those she cut from her garden?",
+        "Equation": "( 21.0 - 15.0 )",
+        "Answer": 6.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-801",
+        "Body": "A waiter had 3 customers. After some left he still had 4 customers.",
+        "Question": "How many more customers stayed behind than those that left?",
+        "Equation": "( 4.0 - ( 3.0 - 4.0 ) )",
+        "Answer": 5.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-730",
+        "Body": "A book has 2 chapters across 23 pages. The first chapter is 10 pages long.",
+        "Question": "How many pages are in the first chapter?",
+        "Equation": "( 23.0 - 10.0 )",
+        "Answer": 13.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-718",
+        "Body": "A book has 2 chapters across 81 pages. The second chapter is 68 pages long.",
+        "Question": "How many pages are in the second chapter?",
+        "Equation": "( 81.0 - 68.0 )",
+        "Answer": 13.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-680",
+        "Body": "Rachel's tree had 4 apples. She picked 2 apples from her tree. Thereafter 3 new apples grew on the tree.",
+        "Question": "How many apples are there on the tree now?",
+        "Equation": "( ( 4.0 - 2.0 ) + 3.0 )",
+        "Answer": 1.0,
+        "Type": "Addition"
+    },
+    {
+        "ID": "chal-676",
+        "Body": "Frank was reading through his favorite book. The book had 193 pages equally distributed over 15 chapters. It took Frank 660 days to finish the book.",
+        "Question": "How many chapters did he read per day?",
+        "Equation": "( 660.0 / 15.0 )",
+        "Answer": 44.0,
+        "Type": "Common-Division"
+    },
+    {
+        "ID": "chal-644",
+        "Body": "The cave is 1218 feet deep and they are already at 849 feet. If they are travelling at speed of 17",
+        "Question": "How much farther until they reach the end of the cave?",
+        "Equation": "( 1218.0 - 849.0 )",
+        "Answer": 369.0,
+        "Type": "Subtraction"
+    },
+    {
+        "ID": "chal-641",
+        "Body": "Dan has $ 2. He bought some candy bar for $ 6 each one costing $ 3.",
+        "Question": "How many candy bar did he buy?",
+        "Equation": "( 6.0 / 3.0 )",
+        "Answer": 2.0,
+        "Type": "Common-Division"
+    }
+]
